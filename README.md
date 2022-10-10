@@ -30,6 +30,20 @@ Views
 - [ ] Players listed in world lobby
 - [ ] Players Display Win loss ratio in lobby
 
+
+### Game Requirements
+- [ ] 3rd user can join a game in progress as comentator
+Gameplay - 
+- [ ] Game is best of 7
+- [ ] if Player disconnects, disconnected is counted as a loss
+- [ ] if Player Disconnects, remaining has no change in stats
+Player Actions
+- [ ] Can choose Rock, Paper, Scisors, Lizard, or Spok
+- [ ] Can send emoticons
+- [ ] Can Send Text message
+- [ ] Speech recording
+
+
 ### Player requirements
 - [ ] Must register on first connection
 - [ ] Player has Win loss ratio
@@ -68,18 +82,6 @@ Properties
 - [ ] Tailwind (try to do it entirely in Tailwind; RARE and MINIMAL overrides with CSS are allowed)
 - [ ] Node/Express
 - [ ] Netlify hosted
-
-### Game Requirements
-- [ ] 3rd user can join a game in progress as comentator
-Gameplay - 
-- [ ] Game is best of 7
-- [ ] if Player disconnects, disconnected is counted as a loss
-- [ ] if Player Disconnects, remaining has no change in stats
-Player Actions
-- [ ] Can choose Rock, Paper, Scisors, Lizard, or Spok
-- [ ] Can send emoticons
-- [ ] Can Send Text message
-- [ ] Speech recording
 
 ### Performance
 - [ ] Must be able to handle 1000 simultanious games
