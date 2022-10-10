@@ -1,13 +1,11 @@
 # RPSLS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-gk5ebl)
 
-
-Positive requirements:
-Lookup
+# Positive requirements:
+### Lookup
   – [ ] Table Lookup for logic
-
-GUI requirements
+## CLIENT:
+### GUI requirements
   Must work for
   – [ ] Tablet
   – [ ] Widescreen
@@ -19,11 +17,16 @@ GUI requirements
   – [ ] Flashing Lights
   – [ ] Music option
   – [ ] Tutorial
+  
+## Server:
+  
 
 
 
-Negative requirements
-Lookup
+# Negative requirements
+## Lookup
   – [ ] No branching statements for winner logic
-– [ ] Item 2
-– [ ] Item 3
+  – [ ] Item 2
+  – [ ] Item 3
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-gk5ebl)
